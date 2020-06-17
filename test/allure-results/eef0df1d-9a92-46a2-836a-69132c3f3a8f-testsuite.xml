@@ -1,0 +1,49 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591691686906' stop='1591691697221'>
+    <name>Testing  Angular js website</name>
+    <title>Testing  Angular js website</title>
+    <test-cases>
+        <test-case start='1591691692233' status='failed' stop='1591691693863'>
+            <name>Testing typing the name in the input</name>
+            <title>Testing typing the name in the input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: base64 is not defined</message>
+                <stack-trace>ReferenceError: base64 is not defined
+                    at /Users/pinkykumari/Protractor/test/conf.js:43:32
+                    at /Users/pinkykumari/Protractor/node_modules/allure-js-commons/runtime.js:44:34
+                    at /Users/pinkykumari/Protractor/test/conf.js:44:23
+                    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:109:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1591691693863' status='failed' stop='1591691697220'>
+            <name>Testing the search element in the url</name>
+            <title>Testing the search element in the url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: base64 is not defined</message>
+                <stack-trace>ReferenceError: base64 is not defined
+                    at /Users/pinkykumari/Protractor/test/conf.js:43:32
+                    at /Users/pinkykumari/Protractor/node_modules/allure-js-commons/runtime.js:44:34
+                    at /Users/pinkykumari/Protractor/test/conf.js:44:23
+                    at ManagedPromise.invokeCallback_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /usr/local/lib/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at process._tickCallback (internal/process/next_tick.js:109:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

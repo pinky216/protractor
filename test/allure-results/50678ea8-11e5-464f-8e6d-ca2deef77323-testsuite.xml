@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591693311069' stop='1591693321388'>
+    <name>Testing  Angular js website</name>
+    <title>Testing  Angular js website</title>
+    <test-cases>
+        <test-case start='1591693318696' status='passed' stop='1591693321386'>
+            <name>Testing typing the name in the input</name>
+            <title>Testing typing the name in the input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='42db50d9-288c-47c4-9b1b-7c24528e0406-attachment.png' type='image/png' size='339612'/>
+            </attachments>
+        </test-case>
+        <test-case start='1591693321387' status='pending' stop='1591693321387'>
+            <name>Testing the search element in the url</name>
+            <title>Testing the search element in the url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

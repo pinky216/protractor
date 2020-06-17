@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1591691713318' stop='1591691726785'>
+    <name>Testing  Angular js website</name>
+    <title>Testing  Angular js website</title>
+    <test-cases>
+        <test-case start='1591691719808' status='passed' stop='1591691723466'>
+            <name>Testing typing the name in the input</name>
+            <title>Testing typing the name in the input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9bb0ddc5-5981-464c-8b07-2dddb89631cd-attachment.png' type='image/png' size='339612'/>
+            </attachments>
+        </test-case>
+        <test-case start='1591691723466' status='passed' stop='1591691726784'>
+            <name>Testing the search element in the url</name>
+            <title>Testing the search element in the url</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fae94637-6e9a-4e02-9fb2-5f329d63a6f4-attachment.png' type='image/png' size='388976'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
